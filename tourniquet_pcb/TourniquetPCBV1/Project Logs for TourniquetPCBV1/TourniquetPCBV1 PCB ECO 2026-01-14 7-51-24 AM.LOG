@@ -1,0 +1,257 @@
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tools.molex.com/pdm_docs/ps/PS-87831-027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B240AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B240AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3590-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "40"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tools.molex.com/pdm_docs/ps/PS-87831-027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B240AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B240AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3590-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "40"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tools.molex.com/pdm_docs/ps/PS-87831-027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B240AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B240AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3590-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "40"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tools.molex.com/pdm_docs/ps/PS-87831-027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch Holder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MCC (Micro Commercial Components)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SI2300-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SI2300-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3590-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tools.molex.com/pdm_docs/ps/PS-87831-027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch Holder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MCC (Micro Commercial Components)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SI2300-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SI2300-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3590-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tools.molex.com/pdm_docs/ps/PS-87831-027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch Holder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MCC (Micro Commercial Components)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SI2300-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SI2300-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3590-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Add component: Footprint Not Found FP-RC0603-0_55-IPC_C
+Added Component: Designator=U?(ATMEGA32U4-AU)
+Add component (AddParameter): Name = "Case/Package"; Value = "TQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "16MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-101746192.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-101746192.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-24967522.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-24967522.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-65729178.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-65729178.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-10917087.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-10917087.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-13542643.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-13542643.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-62316224.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Microchip-datasheet-62316224.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-13432554.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-13432554.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-8370675.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-8370675.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-8828238.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-8828238.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-8383889.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-8383889.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-14106918.pdf?src-supplier=iiiC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/ATMEGA32U4-AU-Atmel-datasheet-14106918.pdf?src-supplier=iiiC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://sigma.octopart.com:80/188450203/materials_sheet/Microchip-ATMEGA32U4-AU.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://sigma.octopart.com:80/188450203/materials_sheet/Microchip-ATMEGA32U4-AU.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Microchip-company-71.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Microchip-company-71.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14Description"; Value = "http://sigma.octopart.com:80/reach_statement/Microchip-company-70.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14URL"; Value = "http://sigma.octopart.com:80/reach_statement/Microchip-company-70.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Microchip-company-69.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Microchip-company-69.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Microchip-company-68.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Microchip-company-68.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17Description"; Value = "http://sigma.octopart.com:80/reach_statement/Atmel-company-6.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17URL"; Value = "http://sigma.octopart.com:80/reach_statement/Atmel-company-6.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Atmel-company-5.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Atmel-company-5.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Atmel-company-4.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Atmel-company-4.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "AVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Assembly"; Value = "Philippines, Thailand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Fabrication"; Value = "United States of America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Philippines, Thailand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "8b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Export Control Classification Number (ECCN) Code"; Value = "EAR99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "16MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8542.31.0015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C, I2S, SPI, UART, USART, USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Package Identifier"; Value = "ATMEGA32U4-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ATMEGA32U4-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Format"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "32kB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of ADC Channels"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I2C Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Programmable I/O"; Value = "26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PWM Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of SPI Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "External"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "Brown-out Detect/Reset, POR, PWM, WDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=5.29, 25=4.84, 100=4.39 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Projected EOL Date"; Value = "2039-11-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "2.5kB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8542310000, 8542310000|8542310000|8542310000|8542310000|8542310000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "7673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "ATMEGA32U4-AU-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Watchdog Timer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=GND Pin=U?-35
+Added Pin To Net: NetName=GND Pin=U?-43
+Added Net: Name=GND
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Added Pin To Net: NetName=PUMP1- Pin=D?-1
+Added Pin To Net: NetName=PUMP1- Pin=Q?-3
+Added Net: Name=PUMP1-
+Added Net: Name=PUMP1_CTRL
+Added Pin To Net: NetName=PUMP1+ Pin=D?-2
+Added Pin To Net: NetName=PUMP1+ Pin=D?-2
+Added Pin To Net: NetName=PUMP1+ Pin=D?-2
+Added Pin To Net: NetName=PUMP1+ Pin=U?-2
+Added Pin To Net: NetName=PUMP1+ Pin=U?-7
+Added Pin To Net: NetName=PUMP1+ Pin=U?-14
+Added Pin To Net: NetName=PUMP1+ Pin=U?-24
+Added Pin To Net: NetName=PUMP1+ Pin=U?-34
+Added Pin To Net: NetName=PUMP1+ Pin=U?-44
+Added Net: Name=PUMP1+
+Added Pin To Net: NetName=PUMP2- Pin=D?-1
+Added Pin To Net: NetName=PUMP2- Pin=Q?-3
+Added Net: Name=PUMP2-
+Added Net: Name=PUMP2_CTRL
+Added Pin To Net: NetName=SCL Pin=U?-18
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U?-19
+Added Net: Name=SDA
+Added Pin To Net: NetName=VALVE- Pin=D?-1
+Added Pin To Net: NetName=VALVE- Pin=Q?-3
+Added Net: Name=VALVE-
+Added Net: Name=VALVE_CTRL
+Added Class: Name=MCU
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
