@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RST Pin=R2-2
+Removed Member From Class: ClassName=MCU Member=R2
+Change Component Comment : Designator=C10 Old Comment=0.1 uF New Comment=1 uF
+Change Component Comment : Designator=C7 Old Comment=0.1 uF New Comment=10uF
+Change Component Comment : Designator=C11 Old Comment=0.1 uF New Comment=10uF
+Added Pin To Net: NetName=RST Pin=SW1-1
