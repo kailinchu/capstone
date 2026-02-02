@@ -138,6 +138,10 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for TourniquetPCBV1\Design Rule Check - TourniquetPCBV1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for TourniquetPCBV1\Net Status - TourniquetPCBV1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
