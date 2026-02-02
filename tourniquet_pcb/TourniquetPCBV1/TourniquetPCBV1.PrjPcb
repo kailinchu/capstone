@@ -140,7 +140,7 @@ UniqueId=a5492c6a-b151-4105-a016-781350e20a23
 Description=BUILD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
+VariationCount=14
 Variation1=Designator=Q2|UniqueId=\LDOHBCJQ|Kind=1|AlternatePart=
 Variation2=Designator=D2|UniqueId=\AIQIGMOK|Kind=1|AlternatePart=
 Variation3=Designator=J2|UniqueId=\UZOGKMSY|Kind=1|AlternatePart=
@@ -149,6 +149,12 @@ Variation5=Designator=R4|UniqueId=\OHIKZVDM|Kind=1|AlternatePart=
 Variation6=Designator=U3|UniqueId=\TNDMAURZ|Kind=1|AlternatePart=
 Variation7=Designator=R17|UniqueId=\XRXEXVQV|Kind=1|AlternatePart=
 Variation8=Designator=D6|UniqueId=\WTAZJTDZ|Kind=1|AlternatePart=
+Variation9=Designator=R18|UniqueId=\CPEGKTFF|Kind=1|AlternatePart=
+Variation10=Designator=C13|UniqueId=\GXOLUNDS|Kind=1|AlternatePart=
+Variation11=Designator=C14|UniqueId=\IHTKIEDR|Kind=1|AlternatePart=
+Variation12=Designator=U2|UniqueId=\YKFOWRUR|Kind=1|AlternatePart=
+Variation13=Designator=O2|UniqueId=\AMLMCJRO|Kind=1|AlternatePart=
+Variation14=Designator=R22|UniqueId=\CLIHRTXO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
