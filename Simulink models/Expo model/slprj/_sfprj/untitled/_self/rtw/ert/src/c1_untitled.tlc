@@ -1,0 +1,131 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   16 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "bit_iterator"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "bit_iterator"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "buffer"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "buffer"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "len"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "len"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "word_iterator"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "word_iterator"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "command_state"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "command_state"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "command"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "command"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "to_screen"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "to_screen"\
+      SrcLocation  ""\
+      Dimensions   [4,1]\
+    }\
+    ChartData {\
+      Name         "full_data_sent"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "full_data_sent"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "pressure_flash"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "pressure_flash"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "transmit"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "transmit"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "flash_ratio"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "flash_ratio"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_active_c1_untitled"\
+      Description  "StateIsActive"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_c1_untitled"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_sending_firmware"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "sending_firmware"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_command_flow"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "sending_firmware.command_flow"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_send_data"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "sending_firmware.send_data"\
+      SrcLocation  ""\
+    }\
+  }
+  %return ChartDataElements
+%endfunction

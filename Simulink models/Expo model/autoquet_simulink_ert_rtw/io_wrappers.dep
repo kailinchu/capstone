@@ -1,0 +1,44 @@
+io_wrappers.o: \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\toolbox\target\supportpackages\arduinobase\src\io_wrappers.cpp \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WString.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Print.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Printable.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBDesc.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBCore.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/leonardo/pins_arduino.h \
+ C:/Users/doria/Desktop/FILE_S~1/McMaster/FIFTH_~1/Capstone/REPOSI~1/EXPOMO~1/autoquet_simulink_ert_rtw/rtwtypes.h
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WString.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Print.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Printable.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBDesc.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBCore.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/leonardo/pins_arduino.h:
+
+C:/Users/doria/Desktop/FILE_S~1/McMaster/FIFTH_~1/Capstone/REPOSI~1/EXPOMO~1/autoquet_simulink_ert_rtw/rtwtypes.h:

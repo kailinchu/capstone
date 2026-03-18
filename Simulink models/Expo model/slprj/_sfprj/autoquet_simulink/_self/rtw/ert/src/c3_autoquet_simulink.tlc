@@ -1,0 +1,137 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   17 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "binary_search_lower"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "binary_search_lower"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "binary_search_upper"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "binary_search_upper"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "pressure_difference"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "pressure_difference"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "pressure_lower_bound"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "pressure_lower_bound"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "pressure_upper_bound"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "pressure_upper_bound"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "upper_bound_found"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "upper_bound_found"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_active_c3_autoquet_simulink"\
+      Description  "StateIsActive"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_c3_autoquet_simulink"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Auto_mode"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Auto_mode"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Binary_search_ideal_pressure"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Auto_mode.Binary_search_ideal_pressure"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Find_initial_bounds"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Auto_mode.Find_initial_bounds"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Deflate"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Auto_mode.Find_initial_bounds.Deflate"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Inflate"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Auto_mode.Find_initial_bounds.Inflate"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "durationCounter_1"\
+      Description  ""\
+      SFName       ""\
+      Path         "Auto_mode.Binary_search_ideal_pressure.Idle"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "durationCounter_1"\
+      Description  ""\
+      SFName       ""\
+      Path         "Auto_mode.Find_initial_bounds.Inflate.Idle"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "durationCounter_1"\
+      Description  ""\
+      SFName       ""\
+      Path         "Auto_mode.Find_initial_bounds.Deflate.Idle"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "durationCounter_1"\
+      Description  ""\
+      SFName       ""\
+      Path         "Auto_mode.Find_initial_bounds.Inflate"\
+      SrcLocation  ""\
+    }\
+  }
+  %return ChartDataElements
+%endfunction

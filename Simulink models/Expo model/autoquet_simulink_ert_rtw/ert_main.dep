@@ -1,0 +1,68 @@
+ert_main.o: \
+ C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\ert_main.c \
+ C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\autoquet_simulink.h \
+ C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h \
+ C:/Users/doria/Desktop/FILE_S~1/McMaster/FIFTH_~1/Capstone/REPOSI~1/EXPOMO~1/autoquet_simulink_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_SerialRead.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_SerialWrite.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_I2C.h \
+ C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/io_wrappers.h \
+ C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_PWM.h \
+ C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\autoquet_simulink_types.h \
+ C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\rt_zcfcn.h \
+ C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\zero_crossing_types.h \
+ C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/leonardo/pins_arduino.h
+
+C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\autoquet_simulink.h:
+
+C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h:
+
+C:/Users/doria/Desktop/FILE_S~1/McMaster/FIFTH_~1/Capstone/REPOSI~1/EXPOMO~1/autoquet_simulink_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_SerialRead.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_SerialWrite.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_I2C.h:
+
+C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/io_wrappers.h:
+
+C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_PWM.h:
+
+C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\autoquet_simulink_types.h:
+
+C:/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\rt_zcfcn.h:
+
+C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\zero_crossing_types.h:
+
+C:\Users\doria\Desktop\FILE_S~1\McMaster\FIFTH_~1\Capstone\REPOSI~1\EXPOMO~1\autoquet_simulink_ert_rtw\MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/leonardo/pins_arduino.h:
